@@ -2,7 +2,7 @@
 
 This repo contains the little scripts I build to test out my knowledge in regression, NLP, etc.
 
-The chatbot.py file contains a python script:
+The chat_bot_core_problem.py file contains a python script:
 
   1. It reads in datasets about a story, a query and a yes/no answer.
   2. It tokenizes the text data (vectorization)
