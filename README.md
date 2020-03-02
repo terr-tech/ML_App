@@ -12,3 +12,7 @@ The chat_bot_core_problem.py file contains a python script:
 
 This repository acts as an online storage for self-taught projects
 
+next steps:
+put together a flutter app for testing
+
+
